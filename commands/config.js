@@ -25,8 +25,8 @@ module.exports = {
       .setDescription(`
 Bạn muốn chỉnh sửa gì?
 
-:một: - Tiền tố Máy chủ
-:hai: - Vai trò DJ
+:one: - Tiền tố Máy chủ
+:tow: - Vai trò DJ
 `);
 
     let ConfigMessage = await message.channel.send(Config);
