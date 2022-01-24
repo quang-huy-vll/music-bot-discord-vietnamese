@@ -32,7 +32,7 @@ Bạn có vấn đề gì với bot không? Đi đến của [Máy Chủ Discord
 
 ## ✨ Người đóng góp
 
-Mọi đóng góp luôn được hoan nghênh: D Đảm bảo theo dõi [Đóng góp](/CONTRIBUTING.md)
+Mọi đóng góp luôn được hoan nghênh :D Đảm bảo theo dõi [Đóng góp](/CONTRIBUTING.md)
 
 <a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
