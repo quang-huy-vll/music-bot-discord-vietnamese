@@ -1,5 +1,5 @@
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> Discord Music Bot <img src="./assets/logo.gif" width="30px"></h1>
-<p align="center">Cảm ơn đã sài bản cietsub này!</p>
+<p align="center">Cảm ơn đã sài bản vietsub này!</p>
 
 ## ✨Cập nhật mới nhất✨
 
