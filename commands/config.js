@@ -26,7 +26,7 @@ module.exports = {
 Bạn muốn chỉnh sửa gì?
 
 :one: - Tiền tố Máy chủ
-:tow: - Vai trò DJ
+:two: - Vai trò DJ
 `);
 
     let ConfigMessage = await message.channel.send(Config);
