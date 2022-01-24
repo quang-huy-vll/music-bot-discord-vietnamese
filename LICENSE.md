@@ -1,4 +1,4 @@
-<h1 align="center">License for Discord-MusicBot</h1>
+<h1 align="center">Giấy phép cho Discord-MusicBot</h1>
 
 - Các khoản tín dụng không được thay đổi.
 - Bạn có thể đặt bot của mình ở chế độ công khai ![EpicYay](https://cdn.discordapp.com/emojis/825211636171800596.gif?v=1&size=16)
