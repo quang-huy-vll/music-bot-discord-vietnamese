@@ -1,36 +1,38 @@
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> Discord Music Bot <img src="./assets/logo.gif" width="30px"></h1>
-<p align="center">Thanks for 25k Views with 500 subs!</p>
+<p align="center">Cảm ơn đã sài bản cietsub này!</p>
 
-## ✨Latest Updates✨
+## ✨Cập nhật mới nhất✨
 
-> We are graciously waiting for Discord.js to update to v13 (as a stable version) so we can start updating the bot again. We can't fix all of them right now.
+>Đây là không phải bản gốc mà là bản được Vietsub 99%
 >
-> Please check out the latest list of updates, improvements, and fixes to be made in Version 5 in the Discussions section or by clicking [here](https://github.com/SudhanPlayz/Discord-MusicBot/discussions/236)
+> Chúng tôi rất vui lòng đợi Discord.js cập nhật lên v13 (như một phiên bản ổn định) để chúng tôi có thể bắt đầu cập nhật lại bot. Chúng tôi không thể sửa chữa tất cả chúng ngay bây giờ.
+>
+> ui lòng xem danh sách cập nhật, cải tiến và sửa lỗi mới nhất sẽ được thực hiện trong Phiên bản 5 trong phần Thảo luận hoặc bằng cách nhấp vào [đây](https://github.com/SudhanPlayz/Discord-MusicBot/discussions/236)
 
 
-## 📝 Tutorial
+## 📝 Hướng dẫn
 
-A Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Watch it by clicking [here](https://www.youtube.com/watch?v=p4lP96Tiv9s)
+Hướng dẫn đã được tải lên YouTube <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> coi bằng cách ấn vào [đây](https://www.youtube.com/watch?v=p4lP96Tiv9s)
 
-## 📝 [Support Server](https://discord.gg/sbySMS7m3v)
+## 📝 [Máy chủ hỗ trợ](https://discord.gg/sbySMS7m3v)
 
-Do you have any issues with the bot? Head to our [Discord Server](https://discord.gg/sbySMS7m3v) where we can help you faster than creating a GitHub issue. If you have a major bug to report, it would be best to create an [issue here](https://github.com/SudhanPlayz/Discord-MusicBot/issues).
+Bạn có vấn đề gì với bot không? Đi đến của [Máy Chủ Discord](https://discord.gg/sbySMS7m3v) của chúng tôi nơi chúng tôi có thể giúp bạn nhanh hơn so với việc tạo ra sự cố GitHub. Nếu bạn có một lỗi lớn cần báo cáo, cách tốt nhất là tạo một [issue here](https://github.com/SudhanPlayz/Discord-MusicBot/issues).
 
-## 📸 Screenshots
+## 📸 Ảnh chụp màn hình
 
 <div align="left"><img src="/assets/Screenshot_1.png"></div><div align="center"><img src="/assets/Screenshot_2.png"></div><div align="right"><img src="/assets/Screenshot_3.png"></div>
 
 <div align="center"><img src="/assets/Features.png"></div>
 
-## 💨 Run the projects
+## 💨 Chạy dự án
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/SudhanPlayz/Discord-MusicBot)
 [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudhanPlayz/Discord-MusicBot)
 
-## ✨ Contributors
+## ✨ Người đóng góp
 
-Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
+Mọi đóng góp luôn được hoan nghênh: D Đảm bảo theo dõi [Contributing.md](/CONTRIBUTING.md)
 
 <a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
