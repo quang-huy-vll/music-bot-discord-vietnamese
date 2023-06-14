@@ -1,9 +1,8 @@
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> Discord Music Bot <img src="./assets/logo.gif" width="30px"></h1>
-<p align="center">Cảm ơn đã sài bản vietsub này!</p>
+<p align="center">Cảm ơn đã sài!</p>
 
 ## ✨Cập nhật mới nhất✨
 
->Đây là không phải bản gốc mà là bản được Vietsub 99%
 >
 > Chúng tôi rất vui lòng đợi Discord.js cập nhật lên v13 (như một phiên bản ổn định) để chúng tôi có thể bắt đầu cập nhật lại bot. Chúng tôi không thể sửa chữa tất cả chúng ngay bây giờ.
 >
