@@ -8,11 +8,6 @@
 >
 > ui lòng xem danh sách cập nhật, cải tiến và sửa lỗi mới nhất sẽ được thực hiện trong Phiên bản 5 trong phần Thảo luận hoặc bằng cách nhấp vào [đây](https://github.com/SudhanPlayz/Discord-MusicBot/discussions/236)
 
-
-## 📝 Hướng dẫn
-
-Hướng dẫn đã được tải lên YouTube <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> coi bằng cách ấn vào [đây](https://www.youtube.com/watch?v=p4lP96Tiv9s)
-
 ## 📝 [Máy chủ hỗ trợ](https://discord.gg/sbySMS7m3v)
 
 Bạn có vấn đề gì với bot không? Đi đến của [Máy Chủ Discord](https://discord.gg/sbySMS7m3v) của chúng tôi nơi chúng tôi có thể giúp bạn nhanh hơn so với việc tạo ra sự cố GitHub. Nếu bạn có một lỗi lớn cần báo cáo, cách tốt nhất là tạo một [vấn đề ở đây](https://github.com/SudhanPlayz/Discord-MusicBot/issues).
